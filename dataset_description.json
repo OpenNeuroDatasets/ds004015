@@ -1,0 +1,14 @@
+{
+  "Name": "Attended speaker paradigm (cEEGrid data)",
+  "BIDSVersion": "v5.2",
+  "License": "Creative commons",
+  "Authors": [
+    "Bjoern Holtze",
+    "Marc Rosenkranz",
+    "Manuela Jaeger",
+    "Stefan Debener",
+    "Bojana Mirkovic"
+  ],
+  "ReferencesAndLinks": ["tba"],
+  "DatasetDOI": "tba"
+}
