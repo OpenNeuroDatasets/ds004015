@@ -1,0 +1,24 @@
+{
+  "InstitutionAddress": "Ammerlaender Heerstr. 114-118, 26129 Oldenburg, Germany",
+  "InstitutionName": "University of Oldenburg",
+  "InstitutionalDepartmentName": "Department of Psychology",
+  "PowerLineFrequency": 50,
+  "ManufacturersModelName": "BrainAmp",
+  "SoftwareFilters": {
+    "Highpass": {
+      "cutoff": "0.0159 (Hz)"
+    },
+    "Lowpass": {
+      "cutoff": "250 (Hz)"
+    }
+  },
+  "TaskName": "AttendedSpeakerParadigmcEEGridAttention",
+  "EEGChannelCount": 18,
+  "EEGReference": "R04b",
+  "RecordingType": "continuous",
+  "RecordingDuration": 4509.506,
+  "SamplingFrequency": 500,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0
+}
